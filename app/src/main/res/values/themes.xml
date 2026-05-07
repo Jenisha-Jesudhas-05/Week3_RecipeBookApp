@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ForkFolio" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/warm_primary</item>
+        <item name="colorPrimaryVariant">@color/warm_primary_light</item>
+        <item name="colorSecondary">@color/warm_accent</item>
+        <item name="android:colorBackground">@color/warm_background</item>
+        <item name="colorSurface">@color/warm_surface</item>
+        <item name="android:statusBarColor">@color/warm_primary</item>
+    </style>
+
+    <style name="Theme.ForkFolio" parent="Base.Theme.ForkFolio"/>
+</resources>

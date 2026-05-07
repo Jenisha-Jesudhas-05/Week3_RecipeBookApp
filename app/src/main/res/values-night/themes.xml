@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ForkFolio" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/warm_primary</item>
+        <item name="colorSecondary">@color/warm_accent</item>
+    </style>
+</resources>

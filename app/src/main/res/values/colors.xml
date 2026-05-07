@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1B4D35</color>
+
+    <!-- Warm Food Palette -->
+    <color name="warm_primary">#E65100</color>       <!-- deep orange -->
+    <color name="warm_primary_light">#FF8A50</color>  <!-- light orange -->
+    <color name="warm_accent">#FFB300</color>         <!-- amber -->
+    <color name="warm_background">#FFF8F2</color>     <!-- cream white -->
+    <color name="warm_surface">#FFFFFF</color>
+    <color name="warm_card">#FFFFFF</color>
+    <color name="warm_text_primary">#1A1A1A</color>
+    <color name="warm_text_secondary">#757575</color>
+    <color name="warm_chip_bg">#FFF3E0</color>
+    <color name="warm_chip_text">#E65100</color>
+    <color name="warm_toolbar">#E65100</color>
+</resources>
